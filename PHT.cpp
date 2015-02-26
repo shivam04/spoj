@@ -14,7 +14,7 @@ int main()
 		d=4+4*k;
 		s=sqrt(d);
 		n = (s-2)/2;
-		cout<<"Case "<<i+1<<": "<<ans<<"\n";
+		cout<<"Case "<<i+1<<": "<<n<<"\n";
 	}
 	return 0;
 }
